@@ -5,6 +5,7 @@ Anitas Food Bar is a project meant to enable customers to know more about the fo
 
 ### Setup
 git clone https://github.com/Jacquigee/Anitas-food-bar.git
+
 Open index.html
 
 ### License
