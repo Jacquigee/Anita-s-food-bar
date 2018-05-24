@@ -1,0 +1,61 @@
+.jumbotron {
+  background-image: url(../images/backgrounds/landing.jpg);
+  /*min-height: 100%;*/
+  margin-bottom: 0;
+  border-radius: 0;
+}
+#logo {
+  display: block;
+  margin:auto;
+  padding: 10px;
+}
+#text {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+.table1{
+  margin-top: 0;
+  height:150px;
+}
+
+td {
+  width:277.5px;
+}
+
+.Happyhour{
+  background-color: #F2F4FF;
+}
+
+.Breakfast{
+  background-image: url(../images/foodtop/breakfast.jpg);
+}
+.Lunch{
+
+  background-image: url(../images/foodtop/lunch.jpg);}
+
+.Dinner{
+  background-image: url(../images/foodtop/dinner.jpg);
+}
+
+.PartyTime{
+  background-color: #EF561A;
+}
+
+h5{
+  color: white;
+  text-align: center;
+}
+
+.Happyhour h5 {
+  color: black;
+  text-align: center;
+}
+
+.fastFood1{
+  background-image: url(../images/footerlogos/fastFood1.jpg);
+}
+
+.fastFood2{
+  background-image: url(../images/footerlogos/fastFood2.jpg);
+}
