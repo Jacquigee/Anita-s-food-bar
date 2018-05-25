@@ -32,7 +32,9 @@ td {
 }
 .Lunch{
 
-  background-image: url(../images/foodtop/lunch.jpg);}
+  background-image: url(../images/foodtop/lunch.jpg);
+  opacity: 0.5;
+}
 
 .Dinner{
   background-image: url(../images/foodtop/dinner.jpg);
@@ -52,10 +54,37 @@ h5{
   text-align: center;
 }
 
-.fastFood1{
-  background-image: url(../images/footerlogos/fastFood1.jpg);
+
+.fastfood-section {
+  margin-top: 0px;
+  display: flex;
 }
 
-.fastFood2{
-  background-image: url(../images/footerlogos/fastFood2.jpg);
+.fastfood {
+  flex: 1;
+  order: 1;
+}
+
+.fastfood-paragraph {
+  flex: 1;
+  order: 2;
+}
+
+.drinks-section {
+  margin-top: 0px;
+  display: flex;
+}
+
+.drinks{
+  flex: 1;
+  order: 2;
+}
+.drinks-paragraph {
+  flex: 1;
+  order: 1;
+}
+
+.carousel-slide{
+  background-image: url(../images/backgrounds/foodsBg.jpg);
+
 }
