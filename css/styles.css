@@ -250,3 +250,67 @@ h6 {
 .row {
   margin-left: 50px;
 }
+
+
+
+.fastfood-section {
+  margin: 75px;
+  border-collapse: separate;
+  border-spacing: 20px;
+}
+
+.fastfood {
+  border: solid 1px #dadee5;
+  margin-right: 70px;
+  margin-left: 100px;
+  padding: 10px;
+  width: 450px;
+}
+
+.fastfood-paragraph {
+  margin-left: 100px;
+  width: 400px;
+  text-align: left;
+  margin-top: 0;
+}
+
+.fastfood-paragraph h3{
+  text-align: left;
+}
+
+.fastfood-paragraph p {
+  text-align: left;
+}
+
+.btn-outline-warning {
+  color: #F15A29;
+  background-color: transparent;
+  background-image: none;
+  border-color: #F15A29;
+  border-radius: 0.15rem;
+  padding-left: 35px;
+  padding-right: 30px;
+}
+
+.drinks-section {
+  margin: 75px;
+  border-collapse: separate;
+  border-spacing: 20px;
+  margin-bottom: 100px;
+}
+
+.drinks {
+  padding: 10px;
+}
+
+
+
+.drinks-paragraph {
+  text-align: right;
+  margin-top: 45px;
+  margin-right: 50px;
+}
+
+.drinks-paragraph p {
+  text-align: right;
+}
