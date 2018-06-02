@@ -14,13 +14,58 @@
   font-size: 30px;
   color: white;
 }
+
+.nav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #F15A29;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.nav-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.nav a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #000000;
+  display: block;
+  transition: 0.3s;
+}
+
+.nav a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.nav .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+#navSpan{
+  margin-left: 30px;
+}
+
 .table1{
   margin-top: 0;
   height:150px;
 }
 
 td {
-  width:277.5px;
+  width:320.5px;
 }
 
 .Happyhour{
@@ -156,15 +201,13 @@ h6 {
   color: #F15A29;
 }
 
-#form1 {
-    /*margin: 150px;
-  margin-left:300px;*/
+#form {
   height: 230px;
   background-image: url(../images/backgrounds/subscribe.jpg);
   background-size: 100%;
 }
 
-#form1 h4 {
+#form h4 {
   text-align: center;
   color: #FFFFFF;
   position: relative;
