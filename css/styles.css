@@ -199,3 +199,54 @@ h6 {
 .form_button:hover {
   background-color: #DCDEE8;
 }
+
+.footer {
+  background-color: #F15A29;
+  color: #FFFFFF;
+  height: 250px;
+}
+
+#burgr {
+  float: left;
+  margin-left: 535px;
+  margin-top: 35px;
+}
+
+.footer h1 {
+  position: relative;
+  left: 10px;
+  margin-left: 515px;
+  padding-top: 35px;
+}
+
+.footer p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer_logos {
+  display: flex;
+  justify-content: center;
+}
+
+#fb {
+  margin-right: 12px;
+}
+
+#tw {
+  margin-rigt: 10px;
+}
+
+#pin {
+  margin-left: 12px;
+}
+
+.fp2 {
+  text-align: center;
+  font-size: 10px;
+  padding-top: 30px;
+}
+
+.row {
+  margin-left: 50px;
+}
