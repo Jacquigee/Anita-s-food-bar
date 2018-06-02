@@ -104,3 +104,54 @@ h5{
   margin-left: 10px;
 
 }
+
+#testimonials {
+  padding-right: 30px;
+}
+
+#div_testimonials {
+  border: solid 1px #dadee5;
+  margin-top: 75px;
+  margin-bottom: 75px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+
+#div_testimonials h5,
+h6,
+p {
+  text-align: center;
+}
+
+#p2 {
+  margin-left: 5px;
+}
+
+#p3 {
+  margin-left: 5px;
+}
+
+#div_testimonials h5,
+h6 {
+  color: #F15A29;
+}
+
+#about {
+  border-left: solid 1px #dadee5;
+
+}
+
+#about {
+  padding-right: 10px;
+}
+
+#left_angle {
+  padding-left: 145px;
+  color: #F15A29;
+
+}
+
+#right_angle {
+  color: #F15A29;
+}
