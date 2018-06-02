@@ -155,3 +155,47 @@ h6 {
 #right_angle {
   color: #F15A29;
 }
+
+#form1 {
+    /*margin: 150px;
+  margin-left:300px;*/
+  height: 230px;
+  background-image: url(../images/backgrounds/subscribe.jpg);
+  background-size: 100%;
+}
+
+#form1 h4 {
+  text-align: center;
+  color: #FFFFFF;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.form_input {
+  margin: 100px;
+  margin-left: 370px;
+  margin-right: 45px;
+  width: 300px;
+  height: 32px;
+  background-color: rgba(220, 220, 220, 0.1);
+  padding-left: 10px;
+  border-radius: 0.19rem;
+  outline: none;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(0, 0, 0, .15);
+}
+
+.form_button {
+  margin: 100px;
+  margin-left: 0;
+  width: 150px;
+  height: 32px;
+  background-color: #F15A29;
+  border: 0;
+  border-radius: 0.15rem;
+}
+
+.form_button:hover {
+  background-color: #DCDEE8;
+}
