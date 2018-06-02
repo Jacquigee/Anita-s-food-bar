@@ -85,6 +85,22 @@ h5{
 }
 
 .carousel-slide{
-  background-image: url(../images/backgrounds/foodsBg.jpg);
+  background-image: url(/images/backgrounds/foodsBg.jpg);
+
+}
+
+#navContainer {
+  padding: 100px;
+  background-image: url(../images/backgrounds/foodsBg.jpg)
+}
+
+#card_left {
+  color: #F15A29;
+  margin-right: 10px;
+}
+
+#card_right {
+  color: #F15A29;
+  margin-left: 10px;
 
 }
